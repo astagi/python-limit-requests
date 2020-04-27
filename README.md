@@ -1,7 +1,7 @@
 # Rate limiting using Python and Redis
 
 This repository contains a Python implementation of `time-bucketed` and `GCRA` algorithms to limit requests.
-For more info go to the article [Rate limiting using Python and Redis]()
+For more info go to the article [Rate limiting using Python and Redis](https://dev.to/astagi/rate-limiting-using-python-and-redis-58gk)
 
 ## Setup
 
