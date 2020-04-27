@@ -5,7 +5,7 @@ For more info go to the article [Rate limiting using Python and Redis]()
 
 ## Setup
 
-Configure redis and make it running on the default port `6379`. Then install Python dependencies
+Configure [Redis](https://redis.io/) and make it running on the default port `6379`. Then install Python dependencies
 
 ```sh
 pip install redis
